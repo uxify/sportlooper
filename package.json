@@ -1,0 +1,15 @@
+{
+	"name": "vale",
+	"version": "0.0.1",
+	"description": "Multi cam insight for sports training",
+	"repository": "https://github.com/uxify/sportlooper",
+	"scripts": {
+		"dev": "nodemon server.js"
+	},
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.14"
+	}
+}
